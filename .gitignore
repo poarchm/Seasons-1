@@ -47,6 +47,7 @@ Temporary Items
 *.sln
 Platform/PlatformContent/
 Platform/Platform/bin/
+Platform/Platform/obj/
 Platform/Platform/Properties/
 Platform/Platform/Game.ico
 Platform/Platform/GameThumbnail.png
